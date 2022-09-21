@@ -1,0 +1,22 @@
+.example-track {
+    position: relative;
+    background: #ddd;
+  }
+  
+  .example-track.example-track-0 {
+    background: #83a9ff;
+  }
+  
+  .horizontal-slider .example-track {
+    top: 20px;
+    height: 10px;
+  }
+  
+  .horizontal-slider .example-thumb {
+    top: 12px;
+    width: 10px;
+    outline: none;
+    height: 10px;
+    line-height: 38px;
+  }
+  
